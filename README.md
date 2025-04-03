@@ -17,12 +17,12 @@ This project focuses on building a structured relational database for a hospital
 - Implemented aggregate logic to flag high-value reservations and above-average capacity cabins
 
 📈 Use Cases
-Identify peak guest arrivals for staffing
+- Identify peak guest arrivals for staffing
 
-Optimize cabin allocation and prevent overbooking
+- Optimize cabin allocation and prevent overbooking
 
-Analyze package activity counts for marketing
+- Analyze package activity counts for marketing
 
-Track total revenue per package
+- Track total revenue per package
 
-Support data-driven decisions for operations
+- Support data-driven decisions for operations
